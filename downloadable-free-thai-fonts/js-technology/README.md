@@ -1,0 +1,3 @@
+Original JS fonts copyright (C) 1993-2003 Panutat Tejasen, Seveng Tantiraphan, and Pongsathorn Sraouthai (JS Technology). Minor modifications copyright (C) 2001-2003 ReEncode by P-chanSoft; and (C) 2017 Lanna Innovation Co., Ltd. <info@lanna.io>.
+
+These fonts are free software: you can redistribute and/or modify under the terms of the GNU General Public License as published by the Free Software Foundation, either version 2 of the License, or (at your option) any later version. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details <https://www.gnu.org/licenses/gpl-2.0.en.html>.
