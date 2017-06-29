@@ -1,3 +1,3 @@
-# Thai Font Collection by Lanna Innovation
+# Thai Font Collection
 
-Free and Open Source Thai Fonts - <https://lanna.io/thai-font-collection/>
+Free and Open Source Thai Fonts by *Lanna Innovation* - <https://lanna.io/thai-font-collection/>
