@@ -1,4 +1,7 @@
 # Thai Font Collection
+
+-**Free and Open Source Thai Fonts** by *Lanna Innovation* - <https://lanna.io/thai-font-collection/>
+
 ## Free and Open Source Thai Fonts
 
 The main goal of this repository is to provide -- in one place a set of freely (and legally) available Thai computer fonts. The collection of fonts show the diversity of Thai typefaces. While there are many different websites with fonts for download, some fonts are difficult to find, and many sites also have proprietary fonts which are not free, and their use violates intellectual property laws.
