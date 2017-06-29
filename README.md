@@ -9,12 +9,12 @@ In addition, information about additional free-to-use fonts not hosted here is i
 
 The Lanna Innovation Thai Font Collection currently includes over 300 font files in 98 font families. Not all font families include multiple variants, but many do. Font files are in TTF or OTF file format. We intend to update all open source and pubic domain font files to OTF which has greater compatibility with modern applications. 14 of the font families (46 individual font styles) are Webfonts available on [Google Fonts](https://fonts.google.com/), which makes using them on websites quite easy.
 
-- More about the **[Free and Open Source Thai fonts with download links](https://gitlab.com/lannainnovation/thai-font-collection/tree/master/downloadable-free-thai-fonts)**. The licenses on these fonts allow us to distribute them.
+- More about the **[Free and Open Source Thai fonts with download links](https://github.com/lannainnovation/thai-font-collection/blob/master/downloadable-free-thai-fonts/)**. The licenses on these fonts allow us to distribute them.
 
 ## Additional, Free-to-use Thai fonts
 
-Information about **[Additional, Free-to-use Thai fonts](https://gitlab.com/lannainnovation/thai-font-collection/tree/master/more-free-thai-fonts-from-other-websites.md)** that can be downloaded from other websites. This is a curated collection of interesting and diverse fonts from a number of font creators and foundries.
+Information about **[Additional, Free-to-use Thai fonts](https://github.com/lannainnovation/thai-font-collection/blob/master/more-free-thai-fonts-from-other-websites.md)** that can be downloaded from other websites. This is a curated collection of interesting and diverse fonts from a number of font creators and foundries.
 
 ## Apple OSX and Microsoft Windows Thai Fonts
 
-We also include information about the non-free, proprietary **[Apple OSX Thai Fonts and Microsoft Windows Thai Fonts](https://gitlab.com/lannainnovation/thai-font-collection/tree/master/apple-and-microsoft-thai-fonts.md)**
+We also include information about the non-free, proprietary **[Apple OSX Thai Fonts and Microsoft Windows Thai Fonts](https://github.com/lannainnovation/thai-font-collection/blob/master/apple-and-microsoft-thai-fonts.md)**
