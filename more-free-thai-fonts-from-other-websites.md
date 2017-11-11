@@ -4,7 +4,7 @@ We include information about 30 font families from 6 sources that are free-to-us
 
 ## Samples of Additional Free Thai Font Families
 
-[![](https://lanna.io/images/lanna/fonts/more-free-thai-fonts-m.png)](https://lanna.io/images/lanna/fonts/more-free-thai-fonts-l.png)
+[![](https://lanna.io/images/lanna/fonts/more-free-thai-fonts-mm.png)](https://lanna.io/images/lanna/fonts/more-free-thai-fonts-l.png)
 
 <p style="clear:both;"></p>
 
