@@ -6,6 +6,8 @@
 
 For this Thai Font Collection, we focus on 6 sources of free and open source Thai fonts. These are font foundries, typeface designers, and/or font license holders. Below are the sources and the font families available (though again, not all font families are complete).
 
+- Download Entire [Free Thai Font Collection](https://github.com/lannainnovation/thai-font-collection/blob/master/downloadable-free-thai-fonts/free-thai-font-collection.zip) (17.5mb zipped file)
+
 ## Cadson Demak
 
 The [Cadson Demask Web Fonts](https://fonts.google.com/?subset=thai) on Google Fonts are quite nice, and are also available via download from their [Github repository](https://github.com/cadsondemak).

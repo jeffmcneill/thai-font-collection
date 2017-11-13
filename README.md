@@ -16,7 +16,7 @@ The Lanna Innovation Thai Font Collection currently includes over 300 font files
 
 ## Additional, Free-to-use Thai fonts
 
-Information about **[Additional, Free-to-use Thai fonts](https://github.com/lannainnovation/thai-font-collection/blob/master/more-free-thai-fonts-from-other-websites.md)** that can be downloaded from other websites. This is a curated collection of interesting and diverse fonts from a number of font creators and foundries.
+Information about **[30 Additional, Free-to-use Thai fonts](https://github.com/lannainnovation/thai-font-collection/blob/master/more-free-thai-fonts-from-other-websites.md)** that can be downloaded from other websites. This is a curated collection of interesting and diverse fonts from a number of font creators and foundries.
 
 ## Apple OSX and Microsoft Windows Thai Fonts
 
