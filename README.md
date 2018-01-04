@@ -11,7 +11,7 @@ In addition, information about additional free-to-use fonts not hosted here is i
 
 ## Contents of the Thai Font Collection
 
-The Lanna Innovation Thai Font Collection currently includes over 300 font files in 98 font families. Not all font families include multiple variants, but many do. Font files are in TTF or OTF file format. We intend to update all open source and pubic domain font files to OTF which has greater compatibility with modern applications. 14 of the font families (46 individual font styles) are Webfonts available on [Google Fonts](https://fonts.google.com/), which makes using them on websites quite easy.
+The Lanna Innovation Thai Font Collection currently includes over 300 font files in 108 font families. Not all font families include multiple variants, but many do. Font files are in TTF or OTF file format. We intend to update all open source and pubic domain font files to OTF which has greater compatibility with modern applications. 14 of the font families (46 individual font styles) are Webfonts available on [Google Fonts](https://fonts.google.com/), which makes using them on websites quite easy.
 
 - More about the **[Free and Open Source Thai fonts with download links](https://github.com/lannainnovation/thai-font-collection/blob/master/downloadable-free-thai-fonts/)**. The licenses on these fonts allow us to distribute them.
 
