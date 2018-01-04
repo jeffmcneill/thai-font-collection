@@ -40,7 +40,7 @@ We include the following font families in our repository: Noto Sans Thai, and No
 
 ## JS Technology
 
-The monumental efforts of Panutat Tejasen, Seveng Tantiraphan, and Pongsathorn Sraouthai, who together are also published under JS Technology, is the heart of this project, at nearly 60% of the font families and nearly 30% of all font families in this collection.
+The monumental efforts of Panutat Tejasen, Seveng Tantiraphan, and Pongsathorn Sraouthai, who together are also published under JS Technology, is the heart of this project, at nearly 60% of the font families and nearly 30% of all font families in this collection. Read more about the [history of the JS Technology fonts](https://m.facebook.com/photo.php?fbid=548544991889214&id=100002011547717&set=a.206635192746864.49374.100002011547717&refid=13&__tn__=%2B%3E) (from a Facebook post).
 
 We include the following font families in our repository: JS 75 Pumpuang, JS Amphan, JS Angsumalin, JS Arisa, JS Boaboon, JS Chaimongkol, JS Chalit, JS Chanok, JS Charnchai, JS Chawlewhieng, JS Chodok, JS Chulee, JS Chusri, JS Duangta, JS Giat, JS Hariphan, JS Jetarin, JS Jindara, JS Jukaphan, JS Junkaew, JS Karabow, JS Khunwai, JS Kobori, JS Korakhot, JS Laongdao, JS Likhit, JS Macha, JS Mookravee, JS Neeno, JS Ninja Allcaps, JS Noklae, JS Obsaward, JS Oobboon, JS Padachamai, JS Pisit, JS Pitsamai, JS Pitsanu, JS Prajuk, JS Pranee, JS Prapakorn, JS Prasoplarp, JS Puchong, JS Pudgrong, JS Pumpuang, JS Puriphop, JS Rapee, JS Sadayu, JS Saksit, JS Samurai, JS Sangravee, JS Saowapark, JS Sarunya, JS Setha, JS Sirium, JS Sunsanee, JS Synjai, JS Thanaporn, JS Tina, JS Toomtam, JS Wanida, JS Wannaree, JS Wansika, and JS Yodthida.
 
