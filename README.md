@@ -6,6 +6,7 @@
 
 # Thai Font Collection
 
+- [Download the latest release of the Thai Font Collection (zipped file of all fonts)](https://github.com/jeffmcneill/thai-font-collection/releases)
 - **Free and Open Source Thai Fonts** by *Lanna Innovation* - <https://lanna.io/thai-font-collection/>
 - See also the **Thai Font Poster** which uses a selection of these fonts - <https://lanna.io/thai-font-poster/>
 
