@@ -1,3 +1,9 @@
+**Updated 2020-03-18**
+
+- Added Cadson Demak Sarabun font family (different from TH Sarabun New under DIP SIPA). Adding 16 typefaces for the font family.
+- Refreshed NECTEC-TLWG fonts, expanding them to match what is available in the 2020-01-04 Debian distribution. Total of 58 typefaces in 13 font families.
+- Expanded the Google Noto-Thai fonts to match what is available in the 2020-01-04 Debian distribution. Total of 74 typefaces.
+
 # Thai Font Collection
 
 - **Free and Open Source Thai Fonts** by *Lanna Innovation* - <https://lanna.io/thai-font-collection/>
