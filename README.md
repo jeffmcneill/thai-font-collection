@@ -1,6 +1,6 @@
 **Updated 2022-06-07**
 
-- Added **Noto Sans Thai Looped** font family, which is a great substitute for the loopless **Noto Sans Thai** font, that has [unresolved usability issues](https://github.com/googlefonts/noto-fonts/issues/1049).
+- Added **[Noto Sans Thai Looped](https://fonts.google.com/noto/specimen/Noto+Sans+Thai+Looped)** font family, which is a great substitute for the loopless **Noto Sans Thai** font, that has [unresolved usability issues](https://github.com/googlefonts/noto-fonts/issues/1049).
 
 **Updated 2020-03-18**
 
