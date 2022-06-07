@@ -1,3 +1,7 @@
+**Updated 2022-06-07**
+
+- Added **Noto Sans Thai Looped** font family, which is a great substitute for the loopless **Noto Sans Thai** font, that has [unresolved usability issues](https://github.com/googlefonts/noto-fonts/issues/1049).
+
 **Updated 2020-03-18**
 
 - Added Cadson Demak Sarabun font family (different from TH Sarabun New under DIP SIPA). Adding 16 typefaces for the font family.  
