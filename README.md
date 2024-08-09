@@ -14,9 +14,9 @@
 
 # Thai Font Collection
 
-- [Download the latest release of the Thai Font Collection (zipped file of all fonts)](https://github.com/jeffmcneill/thai-font-collection/releases)
-- **Free and Open Source Thai Fonts** by *Lanna Innovation* - <https://lanna.io/thai-font-collection/>
-- See also the **Thai Font Poster** which uses a selection of these fonts - <https://lanna.io/thai-font-poster/>
+- Download the [latest release of the Thai Font Collection](https://codeberg.org/jeffmcneill/thai-font-collection/releases) (zipped file of all fonts) 
+- [**Free and Open Source Thai Fonts** by *Memorable Press*](https://memorablepress.com/thai-font-collection/)
+- See also the [**Thai Font Poster**](https://memorablepress.com/thai-font-poster/) which uses a selection of these fonts
 
 ## Free and Open Source Thai Fonts
 
@@ -26,14 +26,14 @@ In addition, information about additional free-to-use fonts not hosted here is i
 
 ## Contents of the Thai Font Collection
 
-The Lanna Innovation Thai Font Collection currently includes over 300 font files in 108 font families. Not all font families include multiple variants, but many do. Font files are in TTF or OTF file format. We intend to update all open source and pubic domain font files to OTF which has greater compatibility with modern applications. 14 of the font families (46 individual font styles) are Webfonts available on [Google Fonts](https://fonts.google.com/), which makes using them on websites quite easy.
+The Memorable Press Thai Font Collection currently includes over 300 font files in 108 font families. Not all font families include multiple variants, but many do. Font files are in TTF or OTF file format. We intend to update all open source and pubic domain font files to OTF which has greater compatibility with modern applications. 14 of the font families (46 individual font styles) are Webfonts available on [Google Fonts](https://fonts.google.com/), which makes using them on websites quite easy.
 
-- More about the **[Free and Open Source Thai fonts with download links](https://github.com/lannainnovation/thai-font-collection/blob/master/downloadable-free-thai-fonts/)**. The licenses on these fonts allow us to distribute them.
+- More about the **[Free and Open Source Thai fonts with download links](https://codeberg.org/jeffmcneill/thai-font-collection/src/branch/master/downloadable-free-thai-fonts)**. The licenses on these fonts allow us to distribute them.
 
 ## Additional, Free-to-use Thai fonts
 
-Information about **[30 Additional, Free-to-use Thai fonts](https://github.com/lannainnovation/thai-font-collection/blob/master/more-free-thai-fonts-from-other-websites.md)** that can be downloaded from other websites. This is a curated collection of interesting and diverse fonts from a number of font creators and foundries.
+Information about **[30 Additional, Free-to-use Thai fonts](https://codeberg.org/jeffmcneill/thai-font-collection/src/branch/master/more-free-thai-fonts-from-other-websites.md)** that can be downloaded from other websites. This is a curated collection of interesting and diverse fonts from a number of font creators and foundries.
 
 ## Apple OSX and Microsoft Windows Thai Fonts
 
-We also include information about the non-free, proprietary **[Apple OSX Thai Fonts and Microsoft Windows Thai Fonts](https://github.com/lannainnovation/thai-font-collection/blob/master/apple-and-microsoft-thai-fonts.md)**
+We also include information about the non-free, proprietary **[Apple OSX Thai Fonts and Microsoft Windows Thai Fonts](https://codeberg.org/jeffmcneill/thai-font-collection/src/branch/master/apple-and-microsoft-thai-fonts.md)**
