@@ -1,6 +1,6 @@
 **Updated 2024-08-09**
 
-- Copied repository over to [Codeberg which is now the primary source for the Thai Font Collection](https://codeberg.org/jeffmcneill/thai-font-collection/). This Github repository is only for historical purposes.
+- Copied repository over to [Codeberg which is now the primary source for the Thai Font Collection](https://codeberg.org/jeffmcneill/thai-font-collection). This Github repository is only for historical purposes.
 
 **Updated 2022-06-07**
 
