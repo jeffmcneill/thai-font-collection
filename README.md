@@ -1,3 +1,7 @@
+**Updated 2024-08-09**
+
+- Copied repository over to [Codeberg which is now the primary source for the Thai Font Collection](https://codeberg.org/jeffmcneill/thai-font-collection/). This Github repository is only for historical purposes.
+
 **Updated 2022-06-07**
 
 - Added **[Noto Sans Thai Looped](https://fonts.google.com/noto/specimen/Noto+Sans+Thai+Looped)** font family, which is a great substitute for the loopless **Noto Sans Thai** font, that has [unresolved usability issues](https://github.com/googlefonts/noto-fonts/issues/1049).
